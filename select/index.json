@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ドラマチック",
+  "base_artist": "サイダーガール",
+  "createdAt": "2026-03-27T06:35:14.939472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "Lucie,Too",
+      "has_synced": true,
+      "path": "select/01_ドラマチック_Lucie,Too.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/02_ドラマチック_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "clammbon",
+      "has_synced": false,
+      "path": "select/03_ドラマチック_clammbon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dramatic [ドラマチック]",
+      "artist": "clammbon",
+      "has_synced": false,
+      "path": "select/04_Dramatic_[ドラマチック]_clammbon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "NINE",
+      "has_synced": false,
+      "path": "select/05_ドラマチック_NINE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/06_ドラマチック_YUKI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドラマチック (remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/07_ドラマチック_(remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドラマチック！アライブ",
+      "artist": "Pastel＊Palettes",
+      "has_synced": false,
+      "path": "select/08_ドラマチック!アライブ_Pastel_Palettes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/09_ドラマチック_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドラマチック・メイクイット",
+      "artist": "Larval Stage Planning",
+      "has_synced": true,
+      "path": "select/10_ドラマチック・メイクイット_Larval_Stage_Planning.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ドラマチック・メイクイット (Off Vocal)",
+      "artist": "Larval Stage Planning",
+      "has_synced": true,
+      "path": "select/11_ドラマチック・メイクイット_(Off_Vocal)_Larval_Stage_Planning.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "ORESAMA",
+      "has_synced": false,
+      "path": "select/12_ドラマチック_ORESAMA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/13_ドラマチック_YUKI.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ドラマチック - Dramatic",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/14_ドラマチック_-_Dramatic_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ドラマチック",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/15_ドラマチック_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドラマチック",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_01_ドラマチック_サイダーガール.txt"
+    }
+  ]
+}
